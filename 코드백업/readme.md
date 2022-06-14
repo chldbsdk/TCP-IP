@@ -21,6 +21,6 @@ waitpid
 sigaction
 <img width="220" height="200" alt="sigaction" src="../img/sigaction.png" ></img>
 <br>file_serverclient
-<img width="220" height="200" alt="file_serverclient" src="../img/file_serverclient.png" ></img>
+<img width="420" height="200" alt="file_serverclient" src="../img/file_serverclient.png" ></img>
 socket_gethostbyname
 <img width="220" height="200" alt="socket_gethostbyname" src="../img/socket_gethostbyname.png" ></img>
