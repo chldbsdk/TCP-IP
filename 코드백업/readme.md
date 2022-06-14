@@ -16,3 +16,11 @@ remove_zombie
 <img width="220" height="200" alt="wait" src="../img/wait.png" ></img>
 waitpid
 <img width="220" height="200" alt="waitpid" src="../img/waitpid.png" ></img>
+<br>signal
+<img width="220" height="200" alt="signal" src="../img/signal.png" ></img>
+sigaction
+<img width="220" height="200" alt="sigaction" src="../img/sigaction.png" ></img>
+<br>file_serverclient
+<img width="220" height="200" alt="file_serverclient" src="../img/file_serverclient.png" ></img>
+socket_gethostbyname
+<img width="220" height="200" alt="socket_gethostbyname" src="../img/socket_gethostbyname.png" ></img>
